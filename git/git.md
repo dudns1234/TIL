@@ -38,3 +38,38 @@ git remote add origin <remote url>
 git push origin master
 ```
 - `master` 브랜치를 `origin` 원격저장소로 업로드
+
+
+
+
+## git 까지의 세세한 과정
+1. 바탕화면에 폴더 생성 C:\Users\yujin\Desktop\camp29\TIL
+2. TIL 폴더에 들어가서 마우스 오른쪽 -> Code로 열기 진행
+3. git init
+![master](./assets/git_init.png)
+    - 현재 폴더에 `.git` 폴더를 생성
+    - .git directory를 만든 것
+    - **최초로 한 번 설정**
+4. git add .
+    - 'Working Diectory' 에서 'Staging Area'로 파일을 업로드
+    - `git status` 로 현재 상태를 체크    
+    - 주의할 점 : add 뒤에 띄어쓰기한 후에 .
+
+5. git commit -m "git 개념 추가"
+    - 'staging area'에 올라간 파일들의 스냅샷을 찍어 '.git directory'에 저장
+    - 일반적으로 '-m' 옵션을 넣어서 커밋메세지를 추가하여 등록
+    -![commit_message](./assets/commit_message.png)
+
+6. git remote add origin https://github.com/dudns1234/TIL.git
+    - remote : 원격 저장소를 관리하는 명령어 
+    - 주소는 나의 github에 새로운 repository를 만든다.
+    - ![create_repository](./assets/create_repository.png)
+    - ![url](./assets/url.png)
+    - ![repository_확인](./assets/repository_생성확인.png)
+    - **최초로 한 번 설정**
+
+7. git push origin master
+    - origin : 업로드할 github 주소의 별명
+    - master : 여러가지의 branch 모음집..?
+
+8. 내용 수정 후에는 ctrl + S 해준후에 2,3,5번 작업 진행해주면 됨.
