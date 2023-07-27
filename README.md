@@ -151,3 +151,77 @@
             true_value if <조건식> else false_value
 
             ```
+> 230727 학습한 내용 정리
+- python_control_of_flow
+    - 반복문
+        - while문   
+          ```python
+            while <조건식>:
+                실행할 코드
+            ```
+            - if문과 다른점은 while문은 조건식이 True인 경우만 진행
+        - for문
+            ```python
+            for variable in sequence:
+                code
+            ```
+            - 정해진 범위 내의 반복
+            - sequence: list, tuple, range, string
+            - enumerate 함수 예시
+                ```python
+                menus = ['엽떡', '청다', '신전']
+                for idx, menu in enumerate(menus) :
+                    print(idx)
+                    print(menu)
+
+                <결과값>
+                엽떡
+                1
+                청다
+                2
+                신전
+                ```
+            - dictionary 반복
+                1. for key in dict:
+                2. for key in dict.keys():
+                3. for value in dict.values():
+                4. for key, value in dict.items():
+            - Break : 반복문을 종료시키는 키워드 (그냥종료)
+            - Continue : continue 이후의 코드를 실행하지 않고 다음 반복을 진행 (다음 순번으로 넘어감)
+            - Else : else 문은 끝까지 반복이 진행된 후 실행
+    - Pass : 아직 무언가를 쓸지 모르겠을 때 사용
+        ```python
+        if True:
+            pass
+        ```
+    - Match : 최근에 들어온 문법
+        ```python
+        match value:
+            case 조건:
+                code
+            case 조건:
+                code
+            case _:
+                code
+        ```
+    - 함수(Function)
+        - 함수의 선언
+            ```python
+            def func_name(parameter1, parameter2...):
+                code1
+                code2
+                ...
+                return value
+            ```
+        - 함수의 호출(실행)
+
+            ```python
+            func_name(parameter1, parameter2)
+            ```
+        - 함수의 return
+            - 함수가 return을 만나면 해당 값을 반환하고 함수를 종료
+            - 만약 return이 없다면 None을 자동으로 반환
+            - return은 오직 하나의 객체만 반환
+            - print는 할당이 불가능해서 재사용이 불가능 하지만 return은 할당을 해줘서 재사용이 가능
+
+    - sw Expert Academy 문제풀기
