@@ -31,3 +31,13 @@
 - lambda 표현식, 타입 힌트, 이름공간(scope)
 - 재귀(recursive) : 팩토리얼(반복, 재귀), 피보나치수열(반복, 재귀)
 - [programmers 문제풀기](https://github.com/dudns1234/Algorithm/tree/master/programmers/%EC%BD%94%ED%85%8C_%EC%9E%85%EB%AC%B8)
+
+> 230731 학습한 내용 정리
+- [메소드](http://localhost:8888/lab/tree/05_module.ipynb)
+    - 문자열 메소드
+    - 리스트 메소드, list copy, list comprehension
+    - 딕셔너리 메소드, dict comprehension
+    - 세트 메소드
+- map(), zip(), filter()
+- [모듈, 패키지, 파이썬 내장 패키지](http://localhost:8888/lab/tree/05_module.ipynb) : math, random, datetime
+- [programmers 문제풀기](https://github.com/dudns1234/Algorithm/tree/master/programmers/%EC%BD%94%ED%85%8C_%EC%9E%85%EB%AC%B8/camp29_algo)
