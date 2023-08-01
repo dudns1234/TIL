@@ -33,11 +33,15 @@
 - [programmers 문제풀기](https://github.com/dudns1234/Algorithm/tree/master/programmers/%EC%BD%94%ED%85%8C_%EC%9E%85%EB%AC%B8)
 
 > 230731 학습한 내용 정리
-- [메소드](http://localhost:8888/lab/tree/05_module.ipynb)
+- [메소드](https://github.com/dudns1234/TIL/blob/master/python/230731_python/%EB%A9%94%EC%86%8C%EB%93%9C.md)
     - 문자열 메소드
     - 리스트 메소드, list copy, list comprehension
     - 딕셔너리 메소드, dict comprehension
     - 세트 메소드
 - map(), zip(), filter()
-- [모듈, 패키지, 파이썬 내장 패키지](http://localhost:8888/lab/tree/05_module.ipynb) : math, random, datetime
+- [모듈, 패키지, 파이썬 내장 패키지](https://github.com/dudns1234/TIL/blob/master/python/230731_python/%ED%8C%A8%ED%82%A4%EC%A7%80.md) : math, random, datetime
 - [programmers 문제풀기](https://github.com/dudns1234/Algorithm/tree/master/programmers/%EC%BD%94%ED%85%8C_%EC%9E%85%EB%AC%B8/camp29_algo)
+
+> 230801 학습한 내용 정리
+- [error처리](https://github.com/dudns1234/TIL/blob/master/python/230801_python/error.md)
+- [OOP(객체지향프로그래밍)](https://github.com/dudns1234/TIL/blob/master/python/230801_python/OOP.md)
