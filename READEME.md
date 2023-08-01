@@ -23,7 +23,7 @@
     - Pass, Match
 - [function](https://github.com/dudns1234/python/blob/master/03_function.ipynb)
     - 함수(Function) : 선언, 호출(실행), return
-    - [sw Expert Academy 문제풀기](https://github.com/dudns1234/Algorithm/tree/master/swea)
+- [sw Expert Academy 문제풀기](https://github.com/dudns1234/Algorithm/tree/master/swea)
 
 > 230728 학습한 내용 정리
 - [함수, 재귀 링크](https://github.com/dudns1234/python/blob/master/03_function.ipynb)
