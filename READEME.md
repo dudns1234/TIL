@@ -26,22 +26,26 @@
 - [sw Expert Academy 문제풀기](https://github.com/dudns1234/Algorithm/tree/master/swea)
 
 > 230728 학습한 내용 정리
-- [함수, 재귀 링크](https://github.com/dudns1234/python/blob/master/03_function.ipynb)
-- 함수의 인수 : 위치인수, 기본값, 키워드 인자, 가변 인자 리스트, 정의되지 않은 키우드 인자 처리하기, 딕셔너리를 인자로 넣기 (unpacking)
-- lambda 표현식, 타입 힌트, 이름공간(scope)
-- 재귀(recursive) : 팩토리얼(반복, 재귀), 피보나치수열(반복, 재귀)
+- [함수](https://github.com/dudns1234/TIL/blob/master/python/230728_python/%ED%95%A8%EC%88%98.md)인수 : 위치인수, 기본값, 키워드 인자, 가변 인자 리스트, 정의되지 않은 키우드 인자 처리하기, 딕셔너리를 인자로 넣기 (unpacking)
+- [lambda 표현식, 타입 힌트, 이름공간(scope)](https://github.com/dudns1234/TIL/blob/master/python/230728_python/lambda_%ED%83%80%EC%9E%85%ED%9E%8C%ED%8A%B8_%EC%9D%B4%EB%A6%84%EA%B3%B5%EA%B0%84.md)
+- [재귀(recursive)](https://github.com/dudns1234/TIL/blob/master/python/230728_python/%EC%9E%AC%EA%B7%80.md) : 팩토리얼(반복, 재귀), 피보나치수열(반복, 재귀)
 - [programmers 문제풀기](https://github.com/dudns1234/Algorithm/tree/master/programmers/%EC%BD%94%ED%85%8C_%EC%9E%85%EB%AC%B8)
 
 > 230731 학습한 내용 정리
-- [메소드](https://github.com/dudns1234/TIL/blob/master/python/230731_python/%EB%A9%94%EC%86%8C%EB%93%9C.md)
+- [메소드](https://github.com/dudns1234/TIL/blob/master/python/230731_python/method.md)
     - 문자열 메소드
     - 리스트 메소드, list copy, list comprehension
     - 딕셔너리 메소드, dict comprehension
     - 세트 메소드
-- map(), zip(), filter()
+- [map(), zip(), filter()](https://github.com/dudns1234/TIL/blob/master/python/230731_python/map_zip_filter.md)
 - [모듈, 패키지, 파이썬 내장 패키지](https://github.com/dudns1234/TIL/blob/master/python/230731_python/%ED%8C%A8%ED%82%A4%EC%A7%80.md) : math, random, datetime
 - [programmers 문제풀기](https://github.com/dudns1234/Algorithm/tree/master/programmers/%EC%BD%94%ED%85%8C_%EC%9E%85%EB%AC%B8/camp29_algo)
 
 > 230801 학습한 내용 정리
-- [error처리](https://github.com/dudns1234/TIL/blob/master/python/230801_python/error.md)
+- [error처리](https://github.com/dudns1234/TIL/blob/master/python/230801_python/error.md) : syntax error, Exception(ZeroDivisionError, NameError ... ) , 예외처리(try except문)
 - [OOP(객체지향프로그래밍)](https://github.com/dudns1234/TIL/blob/master/python/230801_python/OOP.md)
+    - 클래스(class), 인스턴스(instance), 속성(attribute), 행위(method)
+    - 생성자, 소멸자
+    - 클래스 변수, 인스턴스 변수
+    - 클래스 메소드, 인스턴스 메소드, 스태틱메소드
+    - 상속, 다중상속
