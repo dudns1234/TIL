@@ -49,3 +49,6 @@
     - 클래스 변수, 인스턴스 변수
     - 클래스 메소드, 인스턴스 메소드, 스태틱메소드
     - 상속, 다중상속
+
+> 230802 학습한 내용 정리
+- [Algorithm문제풀기](https://github.com/dudns1234/Algorithm/tree/master/swea/0001_babygin) : babygin, sort, minmax, 전기버스, 구간합
