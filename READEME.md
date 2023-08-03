@@ -51,4 +51,9 @@
     - 상속, 다중상속
 
 > 230802 학습한 내용 정리
-- [Algorithm문제풀기](https://github.com/dudns1234/Algorithm/tree/master/swea/0001_babygin) : babygin, sort, minmax, 전기버스, 구간합
+- [알고리즘, List, Search, Sort](https://swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDN86AAXw5UW6&subjectId=AWOVFCzaqeUDFAWg)
+- [Algorithm 문제풀기](https://github.com/dudns1234/Algorithm/tree/master/swea/0001_babygin) : babygin, sort, minmax, 전기버스, 구간합
+
+> 230803 학습한 내용 정리
+- [2차원 List, 검색, 정렬](https://swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDN86AAXw5UW6&subjectId=AWOVF-WqqecDFAWg)
+- [Algorithm 문제풀기](https://github.com/dudns1234/Algorithm/blob/master/swea/1206_view/sol.py) : view, sum, 파리퇴치, 색칠하기
