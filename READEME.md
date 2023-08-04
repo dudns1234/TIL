@@ -57,3 +57,7 @@
 > 230803 학습한 내용 정리
 - [2차원 List, 검색, 정렬](https://swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDN86AAXw5UW6&subjectId=AWOVF-WqqecDFAWg)
 - [Algorithm 문제풀기](https://github.com/dudns1234/Algorithm/blob/master/swea/1206_view/sol.py) : view, sum, 파리퇴치, 색칠하기
+
+> 230804 학습한 내용 정리
+- [부분집합, string, 패턴매칭](https://swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDN86AAXw5UW6&subjectId=AWOVGOEKqeoDFAWg)
+- [Algorithm 문제풀기](https://github.com/dudns1234/Algorithm/blob/master/swea/4837_%EB%B6%80%EB%B6%84%EC%A7%91%ED%95%A9%EC%9D%98%ED%95%A9/sol.py) : 이진탐색, 부분집합의합, 특별정렬, 회문
