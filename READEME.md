@@ -70,3 +70,8 @@
 - [stack2](https://swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDN86AAXw5UW6&subjectId=AWOVIc7KqfQDFAWg)
 - [Queue](https://swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDN86AAXw5UW6&subjectId=AWOVIoJqqfYDFAWg)
 - [Algorithm 문제풀기](https://github.com/dudns1234/Algorithm/blob/master/swea/4881_%EB%B0%B0%EC%97%B4%EC%B5%9C%EC%86%8C%ED%95%A9/sol.py) - 배열최소합, 회전, 피자굽기
+
+> 230809 학습한 내용 정리
+- [stack2](https://swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDN86AAXw5UW6&subjectId=AWOVIc7KqfQDFAWg)
+- [Queue](https://swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDN86AAXw5UW6&subjectId=AWOVIoJqqfYDFAWg)
+- [Algorithm 문제풀기](https://github.com/dudns1234/Algorithm/blob/master/swea/5102_%EB%85%B8%EB%93%9C%EA%B1%B0%EB%A6%AC/sol.py) - 피자굽기, 노드의거리(queue BFS), 미로(Stack), 미로의거리(Queue)
