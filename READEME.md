@@ -81,6 +81,6 @@
 - [Algorithm 문제풀기](https://github.com/dudns1234/Algorithm/blob/master/swea/5174_subtree/sol.py) - subtree, 이진탐색, 이진힙
 
 > 230811 학습한 내용 정리
-- 가상 환경에서 Pandas 학습진행
+- [가상 환경](https://github.com/dudns1234/TIL/blob/master/git/230811_%EA%B0%80%EC%83%81%ED%99%98%EA%B2%BD.md)에서 Pandas 실습
 - [Pandas](https://github.com/teddylee777/machine-learning)
-- [Pandas 실습](https://github.com/dudns1234/pandas/tree/master/tutorial) : 자료구조, 파일입출력, 조회/정렬/조건/필터, 통계, 결측치
+- [Pandas 실습](https://github.com/dudns1234/TIL/tree/master/pandas) : 자료구조, 파일입출력, 조회/정렬/조건/필터, 통계, 결측치
