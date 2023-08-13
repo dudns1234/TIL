@@ -51,33 +51,33 @@
     - 상속, 다중상속
 
 > 230802 학습한 내용 정리
-- [알고리즘, List, Search, Sort](https://swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDN86AAXw5UW6&subjectId=AWOVFCzaqeUDFAWg)
+- [SWEA_List1](https://github.com/dudns1234/TIL/blob/master/4_SWEA/1_List.md) - 알고리즘, List, Search, Sort
 - [Algorithm 문제풀기](https://github.com/dudns1234/Algorithm/tree/master/swea/0001_babygin) : babygin, sort, minmax, 전기버스, 구간합
 
 > 230803 학습한 내용 정리
-- [2차원 List, 검색, 정렬](https://swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDN86AAXw5UW6&subjectId=AWOVF-WqqecDFAWg)
+- [SWEA_List2](https://github.com/dudns1234/TIL/blob/master/4_SWEA/1_List.md) - 2차원 List, 검색, 정렬
 - [Algorithm 문제풀기](https://github.com/dudns1234/Algorithm/blob/master/swea/1206_view/sol.py) : view, sum, 파리퇴치, 색칠하기
 
 > 230804 학습한 내용 정리
-- [부분집합, string, 패턴매칭](https://swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDN86AAXw5UW6&subjectId=AWOVGOEKqeoDFAWg)
+- [SWEA_List2](https://swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDN86AAXw5UW6&subjectId=AWOVGOEKqeoDFAWg) - 부분집합
+- [SWEA_String](https://github.com/dudns1234/TIL/blob/master/4_SWEA/2_String.md) - string, 패턴매칭
 - [Algorithm 문제풀기](https://github.com/dudns1234/Algorithm/blob/master/swea/4837_%EB%B6%80%EB%B6%84%EC%A7%91%ED%95%A9%EC%9D%98%ED%95%A9/sol.py) : 이진탐색, 부분집합의합, 특별정렬, 회문
 
 > 230807 학습한 내용 정리
-- [stack, DP(동적계획법), DFS(깊이우선탐색)](https://swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDN86AAXw5UW6&subjectId=AWOVHzyqqe8DFAWg&&)
-- [Algorithm 문제풀기](https://github.com/dudns1234/Algorithm/tree/master/swea/4866_%EA%B4%84%ED%98%B8%EA%B2%80%EC%82%AC) : 괄호검사(stack), 종이붙이기(DP,재귀), 그래프경로 (DFS:인접 행렬 방식/인접 리스트 방식으로 그래프로 표현)
+- [SWEA_Stack](https://github.com/dudns1234/TIL/blob/master/4_SWEA/3_Stack.md) - DP(동적계획법), DFS(깊이우선탐색)
+- [Algorithm 문제풀기](https://github.com/dudns1234/Algorithm/tree/master/swea/4866_%EA%B4%84%ED%98%B8%EA%B2%80%EC%82%AC) : 괄호검사, 종이붙이기, 그래프경로
 
 > 230808 학습한 내용 정리
-- [stack2](https://swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDN86AAXw5UW6&subjectId=AWOVIc7KqfQDFAWg)
-- [Queue](https://swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDN86AAXw5UW6&subjectId=AWOVIoJqqfYDFAWg)
+- [SWEA_Stack2](https://github.com/dudns1234/TIL/blob/master/4_SWEA/3_Stack.md)
+- [SWEA_Queue](https://github.com/dudns1234/TIL/blob/master/4_SWEA/4_Queue.md)
 - [Algorithm 문제풀기](https://github.com/dudns1234/Algorithm/blob/master/swea/4881_%EB%B0%B0%EC%97%B4%EC%B5%9C%EC%86%8C%ED%95%A9/sol.py) - 배열최소합, 회전, 피자굽기
 
 > 230809 학습한 내용 정리
-- [stack2](https://swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDN86AAXw5UW6&subjectId=AWOVIc7KqfQDFAWg)
-- [Queue](https://swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDN86AAXw5UW6&subjectId=AWOVIoJqqfYDFAWg)
-- [Algorithm 문제풀기](https://github.com/dudns1234/Algorithm/blob/master/swea/5102_%EB%85%B8%EB%93%9C%EA%B1%B0%EB%A6%AC/sol.py) - 피자굽기, 노드의거리(queue BFS), 미로(Stack), 미로의거리(Queue)
+- [SWEA_Queue](https://github.com/dudns1234/TIL/blob/master/4_SWEA/4_Queue.md)
+- [Algorithm 문제풀기](https://github.com/dudns1234/Algorithm/blob/master/swea/5102_%EB%85%B8%EB%93%9C%EA%B1%B0%EB%A6%AC/sol.py) - 피자굽기, 노드의거리, 미로, 미로의거리
 
 > 230810 학습한 내용 정리
-- [tree](https://swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDN86AAXw5UW6&subjectId=AWOVJ-_6qfsDFAWg&&)
+- [tree](https://github.com/dudns1234/TIL/blob/master/4_SWEA/5_Tree.md)
 - [Algorithm 문제풀기](https://github.com/dudns1234/Algorithm/blob/master/swea/5174_subtree/sol.py) - subtree, 이진탐색, 이진힙
 
 > 230811 학습한 내용 정리
