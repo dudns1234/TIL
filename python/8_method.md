@@ -1,6 +1,5 @@
-# 230728 5번째 수업
-## 메소드
-### 문자열 메소드
+# 메소드
+## 문자열 메소드
 - **.capitalize()** : 맨 앞 대문자
 ```python
 a = 'hello'
@@ -77,7 +76,7 @@ a.split() # 기본적으로 띄어쓰기를 기준으로 split
 'woooooow'.count('o')
 6 # 출력값
 ```
-### 리스트 메소드
+## 리스트 메소드
 - **.append(x)** : 리스트에 값 1개 추가
 - **.extend(iterable)** : 리스트에 값 여러개 추가    
 `numbers = [1,2,3,4,5,6,3,4,4,1]`
@@ -101,7 +100,7 @@ numbers.remove(3.5)
 print(numbers)
 [1, 2, 3, 4, 5, 6, 3, 4, 4, 1, 10, 99, 100, 99, 100] # 출력값
 ```
--**.pop(x)** : x번째 인덱스 값 제거
+- **.pop(x)** : x번째 인덱스 값 제거
 ```python
 numbers.pop(0)
 print(numbers)
@@ -128,8 +127,8 @@ numbers = numbers[::-1] #슬라이싱으로 역순 (numbers[(0생략):(-1생략)
 print(numbers)
 [1, 2, 3, 3, 4, 4, 4, 5, 6] # 출력값
 ```
-#### 2.1 리스트 copy
-
+### 2.1 리스트 copy
+- 문제1
 ```python
 origin_list = [1,2,3]
 copy_list = origin_list
@@ -161,7 +160,7 @@ b[0] = 100
 print(a) -> [1, 2, 3]
 print(b) -> [100, 2, 3] # 주소가 다름
 ```
-
+- 문제2
 ```python
 a = [1,2,[3,4]]
 b = a[:]
@@ -184,7 +183,7 @@ print(a) -> [1, 2, [3, 4]]
 print(b) -> [1, 2, [100, 4]]
 ```
 
-#### 2.2 리스트 comprehension
+### 2.2 리스트 comprehension
 `numbers = list(range(1,11))`
 - for문 버전
 ```python
@@ -234,7 +233,7 @@ print(result2)
         print(result2)
         print(''.join(result2))
         ```
-### 3. 딕셔너리 메소드
+## 3. 딕셔너리 메소드
 `
 info = {
     'name' : 'yujin',
@@ -264,7 +263,7 @@ print(info.get('school','없다')) -> 없다 # 출력값
 print(info['school']) -> error # 출력값
 ```
 
-#### 3.1 dict comprehension
+### 3.1 dict comprehension
 - ex. {1 : 1의 3제곱, 2 : 2의 3제곱, 3 : 3의 3제곱 ...}
 
 - for문
@@ -305,7 +304,7 @@ result2 = {k: v for k,v in dust.items() if v >= 50}
 print(result2)
 ```
 
-### 세트 메소드
+## 세트 메소드
 
 `fruits = {'apple','banana','melon'}`
 

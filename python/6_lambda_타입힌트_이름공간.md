@@ -4,6 +4,7 @@
 lambda parameter : expression
 ```
 
+예시
 ```python
 (lambda a, b: a+b)(1,2)  #lambda = def, a, b : (a,b), a+b : return a+b
 

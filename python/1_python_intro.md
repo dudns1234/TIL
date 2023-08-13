@@ -1,23 +1,22 @@
-# 230726 3번째 수업
-### Python
+## Python
 - Jupyterlab 사용
 
-### intro
+## intro
 - 단축키
 - 주의사항   
 
-### 1. 변수   
+## 1. 변수   
 
 변수이름 = 값
 - 변수이름은 어떤 이름이든 상관 없음
 - 다만 영어, 숫자, _를 이용하여 선언
 - 키워드는 사용불가
 
-#### 1-1. number
-#### 1-2. Boolean
+### 1-1. number
+### 1-2. Boolean
 True, False로 이뤄진 타입
-#### 1-3. None
-#### 1-4. String
+### 1-3. None
+### 1-4. String
 문자열을 `'`, `"` 를 이용하여 표현   
 `print('안녕하세요? "정유진"입니다')`   
 `print("안녕하세요? '정유진'입니다")`   
@@ -35,8 +34,8 @@ str.format() | `print('홍길동은 {}살입니다.'.format(age))` | 홍길동�
 f-string | `print(f'홍길동은 {age}살입니다.')` | 홍길동은 20 살입니다.
 
 
-### 2. 연산자
-#### 2-1. 산술연산자
+## 2. 연산자
+### 2-1. 산술연산자
 a + b : 덧셈   
 a - b : 뺄셈   
 a * b : 곱셈   
@@ -102,7 +101,7 @@ A. is는 메모리까지 완벽하게 같아야한다.
 작은 숫자인 1 같은 경우는 메모리까지도 동일하지만   
 큰 숫자인 123123 같은 경우는 메모리가 서로 다름.
 
-#### 우선순위
+### 우선순위
 
 0. ()를 통해 그룹
 1. **
@@ -118,15 +117,15 @@ A. is는 메모리까지 완벽하게 같아야한다.
 `print(-3 ** 4)` | -81
 `print((-3) ** 4)` | 81
 
-### 3. 형변환
-#### 3-1. 암시적 형변환
+## 3. 형변환
+### 3-1. 암시적 형변환
 |값 | 식 | 답|
 |---|---|---|
 a = True b =1 | `a+b` | 2
 a = False b = 1 | `a+b` | 1
 a = 3 b = 1+3j | `a+b` | (4+3j)
 
-#### 3-2. 명시적 형변환
+### 3-2. 명시적 형변환
 - int() : string, float를 int로 변환
 - float() : string, int를 float로 변환
 - str() : int, float 등을 string으로 변환
@@ -138,7 +137,7 @@ a = 1 b = "번" | `print (a + b)` | error |
 error 이유 | int와 str를 연결하려고 했기때문 (+는 int끼리 혹은 str끼리 사용 ) 
 a = 1 b = "번" | `print (str(a) + b)` | 1번
 
-### 4. 시퀀스(Sequence) 자료형
+## 4. 시퀀스(Sequence) 자료형
 시퀀스는 데이터의 순서대로 나열된 자료구조.    
 (순서대로 나열되었다는 것은 정렬된것과 다르다)
 
@@ -147,7 +146,7 @@ a = 1 b = "번" | `print (str(a) + b)` | 1번
 3. Range
 4. String
 
-#### 4-1. List
+### 4-1. List
 - 선언 : 변수이름 = [value1, value2, value3 ...]
 - 접근 : 변수이름[index]
 
@@ -159,7 +158,7 @@ ex. location = ['서울', '대구', '대전'] *#list 선언*
 `location[1] = '부산'` | -
 `print(location)` | ['서울', '부산', '대전']
 
-#### 4.2 Turple
+### 4.2 Turple
 - 선언 : 변수이름 = (value1, value2, value3)
 - 접근 : 변수이름[index]
 - 리스트와 유사하지만 수정 불가능(immutabel)하다.
@@ -179,16 +178,16 @@ A. 여러개의 데이터에 동시에 할당할 때 사용 (아래 참조)
 x,y = 1, 2 | `print(x,y)` | 1 2
 x,y = y, x | `print(x,y)` | 2 1
 
-#### 4.3 range
+### 4.3 range
 
 - range(n) : 0부터 n-1까지 범위
 - range(n, m) : n부터 m-1까지 범위
 - range(n, m, s) : n부터 m-1까지 +s만큼 증가하는 범위
 
-#### 4.4 String
+### 4.4 String
 기본 데이터 구조 참고
 
-#### 4.5 시퀀스에서 활용 가능한 연산/구조
+### 4.5 시퀀스에서 활용 가능한 연산/구조
 - slicing : `data[1]`
 - indexing : `data[1:3]`
 - slicing(k간격) : `data[1:3:k]`
@@ -196,9 +195,9 @@ x,y = y, x | `print(x,y)` | 2 1
 - concatenation(+) , 곱하기(*)
 - len, min, max, .count()
 
-### 5. 시퀀스 데이터가 아닌 자료구조
+## 5. 시퀀스 데이터가 아닌 자료구조
 
-#### 5.1 Set
+### 5.1 Set
 수학에서 사용하는 집합과 동일하게 처리
 - 선언 : 변수이름 = {value1, value2, value3}
 
@@ -232,20 +231,22 @@ ex. my_dict = {'서울': '02', '경기도': '031'}
 `dict_a.values()` | dict_values(['02', '031'])
 
 
-#### 데이터 타입
+## 총정리
+
+### 데이터 타입
 
 1. Number
 2. Boolean
 3. String
 
-#### 자료구조
-- 시퀀스 자료형
-1. **[List] : 수정가능(mutable)**
+### 자료구조
+- **시퀀스 자료형**
+1. [List] : 수정가능(mutable)
 2. (Tuple) : 불변함(immutable)
 3. range() : 불변함(immutable)
-4. **'String' : 불변함(immutable)**
+4. 'String' : 불변함(immutable)
 
-- 시퀀스가 아닌 자료형
-1. {Set} : mutable
-2. **{Dictionary} : mutable**
+- **시퀀스가 아닌 자료형**
+1. {Set} : 수정가능(mutable)
+2. {Dictionary} : 수정가능(mutable)
 

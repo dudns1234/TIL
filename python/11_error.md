@@ -1,4 +1,3 @@
-# 230801 6번째 수업
 ## Error
 ### synatax error
 ```python

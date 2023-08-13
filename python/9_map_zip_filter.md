@@ -1,5 +1,5 @@
-### 5. map(), zip(), filer()
-#### 5.1 map()
+## 5. map(), zip(), filer()
+### 5.1 map()
 `map(function, iterable)`
 
 ```python
@@ -11,7 +11,7 @@ print(number_str) -> <map object at 0x00000200FFB986D0> # 출력값 : 객체만 
 print(list(number_str)) -> ['1', '2', '3'] # 출력값 : 연산이 실행이 되어 결과가 나옴
 ```
 
-#### 5.2 zip()
+### 5.2 zip()
 `a = [1, 2, 3] b = [100, 200, 300] `
 ```python
 result = zip(a,b)
@@ -19,7 +19,7 @@ print(result) -> <zip object at 0x0000020080FA3B80> # 출력값
 print(list(result)) -> [(1, 100), (2, 200), (3, 300)] # 출력값
 ```
 
-#### 5.3 filter()
+### 5.3 filter()
 `filter(function, iterable)`
 - filter에 들어가는 function은 T/F를 반환해야 합니다.
 
