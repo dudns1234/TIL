@@ -8,9 +8,9 @@
 - 인접 리스트 방식
 - 인접 행렬 방식
 ### 6. 관련문제
-### - [종이붙이기](https://github.com/dudns1234/Algorithm/blob/master/swea/4869_%EC%A2%85%EC%9D%B4%EB%B6%99%EC%9D%B4%EA%B8%B0/sol.py)
-### -  [괄호검사](https://github.com/dudns1234/Algorithm/blob/master/swea/4866_%EA%B4%84%ED%98%B8%EA%B2%80%EC%82%AC/sol.py)
-### -  [그래프 경로](https://github.com/dudns1234/Algorithm/blob/master/swea/4871_%EA%B7%B8%EB%9E%98%ED%94%84%EA%B2%BD%EB%A1%9C/sol.py)
+### - [종이붙이기](https://github.com/dudns1234/Algorithm/blob/master/swea/4869_%EC%A2%85%EC%9D%B4%EB%B6%99%EC%9D%B4%EA%B8%B0/sol.py) (DP,재귀)
+### -  [괄호검사](https://github.com/dudns1234/Algorithm/blob/master/swea/4866_%EA%B4%84%ED%98%B8%EA%B2%80%EC%82%AC/sol.py) (Stack)
+### -  [그래프 경로](https://github.com/dudns1234/Algorithm/blob/master/swea/4871_%EA%B7%B8%EB%9E%98%ED%94%84%EA%B2%BD%EB%A1%9C/sol.py) (DFS : 인접 행렬 방식 / 인접 리스트 방식)
 
  
 
