@@ -90,4 +90,7 @@
 - Python 시험
 
 > 230816 학습한 내용 정리
-- [git 강의](https://github.com/dudns1234/TIL/blob/master/1_git/4_git%EA%B0%95%EC%9D%98.md)
+- [git 강의1](https://github.com/dudns1234/TIL/blob/master/1_git/4_git%EA%B0%95%EC%9D%98.md)
+
+> 230817 학습한 내용 정리
+- [git 강의2](https://github.com/dudns1234/TIL/blob/master/1_git/4_git%EA%B0%95%EC%9D%98.md)
