@@ -76,10 +76,10 @@
     ```
 6. 웹 실행 (HTML response)
 - 서버 실행 : `python manage.py runserver`
-- http://127.0.0.1:8000/index
+- http://127.0.0.1:8000/index   
 ![index](./assets/230821_index.jpg)
-- http://127.0.0.1:8000/greeting/yujin
+- http://127.0.0.1:8000/greeting/yujin   
 ![greeting](./assets/230821_greeting.jpg)
-- http://127.0.0.1:8000/cube/3
+- http://127.0.0.1:8000/cube/3   
 ![cube](./assets/230821_cube.jpg)
         

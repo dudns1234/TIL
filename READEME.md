@@ -94,3 +94,11 @@
 
 > 230817 학습한 내용 정리
 - [git 강의2](https://github.com/dudns1234/TIL/blob/master/1_git/4_git%EA%B0%95%EC%9D%98.md)
+
+> 230818 학습한 내용 정리
+- [html](https://github.com/dudns1234/TIL/blob/master/5_WEB/1_HTML.md)
+- [CSS](https://github.com/dudns1234/TIL/blob/master/5_WEB/2_CSS.md)
+
+> 230821 학습한 내용 정리
+- [bootstrap](https://github.com/dudns1234/WEB/blob/master/5.bootstrap.html)
+- [Django](https://github.com/dudns1234/first_pjt)
