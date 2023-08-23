@@ -101,4 +101,10 @@
 
 > 230821 학습한 내용 정리
 - [bootstrap](https://github.com/dudns1234/WEB/blob/master/5.bootstrap.html)
-- [Django](https://github.com/dudns1234/first_pjt)
+- [Django](https://github.com/dudns1234/first_pjt) - urls.pym views.py, template/*.html
+
+> 230822 학습한 내용 정리
+- [CRUD 로직 작성](https://github.com/dudns1234/TIL/blob/master/5_WEB/5_Djange(CRUD).md) - models 정의 + Read, Create, Delete, Update 
+
+> 230823 학습한 내용 정리
+- [CRUD 로직 업데이트](https://github.com/dudns1234/TIL/blob/master/5_WEB/6_Django(CRUD2).md) - APP(posts)에 urls 추가 생성, 공용 HTML 생성(base.html), POST method 사용
