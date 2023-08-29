@@ -138,9 +138,3 @@ def logout(request):
     <a class="nav-link" href="{% url 'accounts:login' %}">Login</a>
 {% endif %}
 ```
-
-> 1:N 관계설정하고 게시물 작성 -> 내일
-- auth - urls.py
-`path('articles/', include('articles.urls')),`
-
-- articles - urls.py
