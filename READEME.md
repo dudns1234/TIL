@@ -105,11 +105,14 @@
 
 > 230822 학습한 내용 정리
 - 진행 폴더명 : CRUD
-- [CRUD 로직 작성](https://github.com/dudns1234/TIL/blob/master/5_WEB/5_Djange(CRUD).md) - models 정의 + Read, Create, Delete, Update 
+- [CRUD 로직 작성](https://github.com/dudns1234/TIL/blob/master/5_WEB/5_Djange(CRUD).md) : models 정의 / Read, Create, Delete, Update 
 
 > 230823 학습한 내용 정리
 - 진행 폴더명 : board
-- [CRUD 로직 업데이트](https://github.com/dudns1234/TIL/blob/master/5_WEB/6_Django(CRUD2).md) - APP(posts)에 urls 추가 생성, 공용 HTML 생성(base.html), POST method 사용
+- [CRUD 로직 업데이트](https://github.com/dudns1234/TIL/blob/master/5_WEB/6_Django(CRUD2).md)
+    - APP 폴더에 urls.py 파일 추가 생성
+    - 공용 HTML 생성(base.html)
+    - Form method POST 사용
 
 > 230824 학습한 내용 정리
 - 진행 폴더명 : modelform
@@ -138,14 +141,14 @@
 
 > 230830 학습한 내용 정리
 - 진행 폴더명 : insta
-- Instagram 만들기(1)
-    - [사진 업로드](https://github.com/dudns1234/TIL/blob/master/5_WEB/11_Django_%EC%82%AC%EC%A7%84%EC%97%85%EB%A1%9C%EB%93%9Cmd) : admin, createm signup을 통해
+- [Instagram 만들기 (1)](https://github.com/dudns1234/TIL/blob/master/5_WEB/11_Django_%EC%82%AC%EC%A7%84%EC%97%85%EB%A1%9C%EB%93%9Cmd)
+    - 사진 업로드 : admin, createm signup을 통해
     - 컴포넌트화(_*.html) : _nav.html, _card.html
 
 > 230831 학습한 내용 정리
 - 진행 폴더명 : insta, MN
-- Instagram 만들기(2)
-    - [M:N 관계 설정](https://github.com/dudns1234/TIL/blob/master/5_WEB/12_Django_MN.md)
+- [Instagram 만들기 (2)](https://github.com/dudns1234/TIL/blob/master/5_WEB/12_Django_MN.md)
+    - M:N 관계 설정
     - 좋아요, 팔로우 기능 추가
 
 > 230901 학습한 내용 정리
