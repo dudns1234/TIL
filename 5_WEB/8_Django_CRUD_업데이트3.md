@@ -1,5 +1,9 @@
-## CRUD 로직 업데이트3
-> - Model Article, Model Comment 2개 구현
+# 오늘 주제  
+> CRUD 로직 업데이트3  
+>   - Article, Comment Model 2개 구현  
+>   - Comment 기능 추가
+>   - 1:N 관계 설정  
+>   - 댓글 작성 및 삭제
 
 ```python
 class Article(models.Model):
@@ -11,9 +15,9 @@ class Comment(models.Model):
     article = models.ForeignKey(Article, on_delete=models.CASCADE)
 ```
 
-> - create.html, update.html => form.html로 합침
+- create.html, update.html => form.html로 합침
 
-```html
+```python
 def create(request):
     if request.method == "POST":
         
@@ -71,7 +75,7 @@ class CommentForm(forms.ModelForm):
 ### urls.py   
 `path('<int:article_id>/comments/create/',views.comment_create, name = 'comment_create')`
 
-### Views 기능 구현
+### views.py
 ```python
 def comment_create(request,article_id):
     # 사용자가 입력한 정보를 form에 입력
@@ -99,7 +103,7 @@ def comment_create(request,article_id):
 
 ```
 
-### comment 박스
+### 작성한 댓글들 보이기
 ```python
 def detail(request,id):
     article = Article.objects.get(id=id)

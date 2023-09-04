@@ -1,10 +1,12 @@
-## CRUD 로직 업데이트2
-> - create(new, create) / update(edit, update) 둘 다 url를 2개씩 나눠서 진행했는데 이번에는 url을 하나로 합쳐서 진행
+# 오늘 주제  
+> CRUD 로직 업데이트2
+> - URL 통합
+>   - create(new, create) / update(edit, update) 둘 다 url를 2개씩 나눠서 진행했는데 이번에는 url을 하나로 합쳐서 진행
+> - Form 자동화(forms.py)
+> - GET 방식, POST 방식 code 합쳐서 작성
+>   - GET 방식 : 사용자에게 빈 form 보여주기  
+>   - POST 방식 : 사용자가 폼에 입력한 데이터 가져오기
 
-> - GET 방식 => coffee/3  (주세요 요청)  
-> - POST 방식 => coffee/  (보낼테니까 알아서해)
-
-> - Form 자동화
 
 # CRUD 로직 전
 0. setting

@@ -1,9 +1,12 @@
 # 오늘 주제  
-> 1. 1:N 관계설정  
-> 2. Create logout시 처리  
-> 3. django-bootstrap 실습  
-> 4. 협업을 위한 라이브러리 소개??  
-----
+> - 1:N 관계설정  
+> - Create 할 때 logout 되어있을시 처리
+>   - if not request.user.is_authenticated
+>   - @login_required
+> - django-bootstrap 실습  
+> - 협업할 때를 위한 라이브러리 목록 저장
+
+
 ## 1:N 관계설정
 - articles - models.py
 ```python
@@ -12,7 +15,6 @@ from accounts.models import User # 방법 1을 위함
 from django.conf import settings  # 방법 2를 위함, setting.py 라고 생각
 from django.contrib.auth import get_user_model # 방법 3를 위함
 
-# Create your models here.
 class Article(models.Model):
     title = models.CharField(max_length=50)
     content = models.TextField()
@@ -49,7 +51,8 @@ class User(AbstractUser):
     # article_set = 만들어짐 article와 연결하여(1(User):N(Article))
     # comment_set = 만들어짐 Comment와 연결하여(1(User):N(Article))
 ```
----
+
+
 ## Read 기능구현
 - auth - urls.py     
 `path('articles/', include('articles.urls')),`
@@ -170,7 +173,7 @@ def create(request):
 if 로그인 했으면 : create 함수실행  
 if 로그인 안했으면 : login 함수로 redirect( 로그인한 후는 next로 알려줌)
 
-- accounts - views.py 수정
+- accounts/views.py 수정
     - login 수정 ( 로그인을 안하고 create를 진행하여 login 페이지 방문 )
     ```python
     def login(request):

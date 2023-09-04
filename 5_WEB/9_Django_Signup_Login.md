@@ -1,9 +1,11 @@
-> admin User 확인   
+# 오늘 주제  
+> User Model 추가   
+> Signup, Login, Logout 기능추가  
+
 - model.py
 ```python
 from django.contrib.auth.models import AbstractUser
 
-# Create your models here.
 class User(AbstractUser):
     pass
 ```
@@ -19,15 +21,15 @@ admin.site.register(User)
 - `python manage.py createsuperuser`
 - `python manage.py runserver`
 
-> signup
-- auth - urls.py
+## signup
+- auth/urls.py
 ```python
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('accounts/', include('accounts.urls')),
 ]
 ```
-- accounts-urls.py (accounts/urls.py 파일 생성)
+- accounts/urls.py (accounts/urls.py 파일 생성)
 ```python
 from django.urls import path
 from . import views
@@ -86,7 +88,7 @@ def signup(request):
 {% endblock %}
 ```
 
-> Login
+## Login
 - base.html
 ```html
 <a class="nav-link" href="{% url 'accounts:login' %}">Login</a>
@@ -114,7 +116,7 @@ def login(request):
     return render(request, 'form.html',context)
 ```
 
-> logout
+## logout
 ```html
 <a class="nav-link" href="url 'accounts:logout'">Logout</a>
 ```
