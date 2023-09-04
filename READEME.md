@@ -101,10 +101,58 @@
 
 > 230821 학습한 내용 정리
 - [bootstrap](https://github.com/dudns1234/WEB/blob/master/5.bootstrap.html)
-- [Django](https://github.com/dudns1234/first_pjt) - urls.pym views.py, template/*.html
+- [Django](https://github.com/dudns1234/first_pjt) - urls.py views.py, template/*.html
 
 > 230822 학습한 내용 정리
+- 진행 폴더명 : CRUD
 - [CRUD 로직 작성](https://github.com/dudns1234/TIL/blob/master/5_WEB/5_Djange(CRUD).md) - models 정의 + Read, Create, Delete, Update 
 
 > 230823 학습한 내용 정리
+- 진행 폴더명 : board
 - [CRUD 로직 업데이트](https://github.com/dudns1234/TIL/blob/master/5_WEB/6_Django(CRUD2).md) - APP(posts)에 urls 추가 생성, 공용 HTML 생성(base.html), POST method 사용
+
+> 230824 학습한 내용 정리
+- 진행 폴더명 : modelform
+- [모델폼을 이용한 CRUD](https://github.com/dudns1234/TIL/blob/master/5_WEB/7_Django_CRUD_%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B82.md)
+- new-create, edit-update 각 하나의 URL로 통합
+- form 자동화
+- Create 기능구현시 GET, POST 방식 한 코드로 처리
+
+> 230825 학습한 내용 정리
+- 진행 폴더명 : 1-N
+- Article, Comment Model 2개 구현  
+- 1:N 관계 설정(게시물-댓글)
+- [Comment 기능 추가](https://github.com/dudns1234/TIL/blob/master/5_WEB/8_Django_CRUD_%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B83.md)
+    - 댓글작성, 댓글보기, 댓글삭제
+
+> 230828 학습한 내용 정리
+- 진행 폴더명 : auth
+- User 모델 추가
+- [Signup, Login, Logout 기능 추가](https://github.com/dudns1234/TIL/blob/master/5_WEB/9_Django_Signup_Login.md)
+
+> 230829 학습한 내용 정리
+- 진행 폴더명 : auth
+- [1:N 관계설정](https://github.com/dudns1234/TIL/blob/master/5_WEB/10_Django_1N.md)
+- Create시 logout 되어있을시에 대한 처리
+- 협업할 때를 위한 라이브러리 목록 저장
+
+> 230830 학습한 내용 정리
+- 진행 폴더명 : insta
+- Instagram 만들기(1)
+    - [사진 업로드](https://github.com/dudns1234/TIL/blob/master/5_WEB/11_Django_%EC%82%AC%EC%A7%84%EC%97%85%EB%A1%9C%EB%93%9Cmd) : admin, createm signup을 통해
+    - 컴포넌트화(_*.html) : _nav.html, _card.html
+
+> 230831 학습한 내용 정리
+- 진행 폴더명 : insta, MN
+- Instagram 만들기(2)
+    - [M:N 관계 설정](https://github.com/dudns1234/TIL/blob/master/5_WEB/12_Django_MN.md)
+    - 좋아요, 팔로우 기능 추가
+
+> 230901 학습한 내용 정리
+- 진행 폴더명 : final
+- Project : Balance Game 웹 페이지 만들기
+
+> 230904 학습한 내용 정리
+- 진행 폴더명 : SQL, ORMSQL
+- [SQL 기본 문법](https://github.com/dudns1234/TIL/blob/master/6_SQL/1_%EA%B8%B0%EB%B3%B8%EB%AC%B8%EB%B2%95.md)
+- [Django를 활용하여 SQL 구문 작성 및 ORM문과 비교](https://github.com/dudns1234/TIL/blob/master/6_SQL/2_Django_ORM%EB%B9%84%EA%B5%90.md)
