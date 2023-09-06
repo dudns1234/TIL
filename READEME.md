@@ -159,3 +159,11 @@
 - 진행 폴더명 : SQL, ORMSQL
 - [SQL 기본 문법](https://github.com/dudns1234/TIL/blob/master/6_SQL/1_%EA%B8%B0%EB%B3%B8%EB%AC%B8%EB%B2%95.md)
 - [Django를 활용하여 SQL 구문 작성 및 ORM문과 비교](https://github.com/dudns1234/TIL/blob/master/6_SQL/2_Django_ORM%EB%B9%84%EA%B5%90.md)
+
+> 230905 학습한 내용 정리
+- 진행 폴더명 : beginner-html-site-styled-gh-pages
+- [javascripts 기초 문법 연습, django에 javascripts 적용, like 기능 ajax처리](https://github.com/dudns1234/TIL/blob/master/5_WEB/13_JavaScript.md)
+
+> 230906 학습한 내용 정리
+- 진행 폴더명 : insta
+- 추가 기능구현 및 css, java 적용 (진행중)
