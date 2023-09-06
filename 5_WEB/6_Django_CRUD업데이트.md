@@ -2,7 +2,7 @@
 > CRUD 로직 업데이트1
 >    - APP(posts)에다가 urls.py 추가 생성   
 >    - 공용 HTML 만듬 (base.html)   
->    - POST method 사용
+>    - form method = POST 사용
 
 ## APP에 urls.py 추가 생성
 - `django-admin startproject <pjt-name>` 실행시 :   
