@@ -176,5 +176,5 @@
 ---
 > 230911 학습한 내용 정리
 - python 3.10.11 설치 및 pandas, numpy, matplotlib, seaborn 라이브러리 설치
-- 자동차리콜데이터 수집, 분석, 시각화
-- iris, titanic 데이터 EDA
+- [자동차리콜데이터 수집, 분석, 시각화](https://github.com/dudns1234/Data_Analysis/blob/master/0.%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D%EB%B3%B5%EC%8A%B5/1.%EC%9E%90%EB%8F%99%EC%B0%A8%EB%A6%AC%EC%BD%9C%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D/1.%EC%9E%90%EB%8F%99%EC%B0%A8%EB%A6%AC%EC%BD%9C%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D_matplotlib_2022.ipynb)
+- [iris, titanic 데이터 EDA](https://github.com/dudns1234/Data_Analysis/blob/master/0.%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D%EB%B3%B5%EC%8A%B5/0.EDA%EB%A5%BC%20%EC%9C%84%ED%95%9C%20%EA%B8%B0%EB%B3%B8.ipynb)
