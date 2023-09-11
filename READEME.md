@@ -171,3 +171,10 @@
 > 230907 학습한 내용 정리
 - 진행 폴더명 : insta
 - 추가 기능구현 및 css, java 적용, aws 배포
+
+
+---
+> 230911 학습한 내용 정리
+- python 3.10.11 설치 및 pandas, numpy, matplotlib, seaborn 라이브러리 설치
+- 자동차리콜데이터 수집, 분석, 시각화
+- iris, titanic 데이터 EDA
