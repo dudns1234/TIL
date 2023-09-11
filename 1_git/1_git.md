@@ -19,7 +19,12 @@ git init
 - `.git directory`를 생성하는 명령어
 
 ```shell
+- 모든 파일
 git add .
+
+- 특정 파일
+git add <특정 파일 경로>
+git add 1_git/1_git.md
 ```
 - `working directory`에 있는 파일, 폴더를 `staging area`에 추가
 - add 하기전엔 파일이 저장이 되었는지 확인하기
