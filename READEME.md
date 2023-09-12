@@ -180,7 +180,7 @@
 - [iris, titanic 데이터 EDA](https://github.com/dudns1234/TIL/blob/master/8_DataAnalysis/2_EDA.md) (진행중)
 
 > 230912 학습한 내용 정리
-- iris, titanic 데이터 EDA
-- matplotlib 시각화 확장
-- EDA 툴 : 가상환경 설정 및 sweetviz설치
+- [iris, titanic 데이터 EDA](https://github.com/dudns1234/TIL/blob/master/8_DataAnalysis/2_EDA.md)
+- [matplotlib 시각화 확장](https://github.com/dudns1234/TIL/blob/master/8_DataAnalysis/3_Matplotlib.md)
+- [EDA 툴]((https://github.com/dudns1234/TIL/blob/master/8_DataAnalysis/2_EDA.md)) : 가상환경 설정 및 sweetviz설치
 - 자동차 리콜 3년 데이터 분석(과제)
