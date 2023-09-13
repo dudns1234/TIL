@@ -184,3 +184,6 @@
 - [matplotlib 시각화 확장](https://github.com/dudns1234/TIL/blob/master/8_DataAnalysis/3_Matplotlib.md)
 - [EDA 툴]((https://github.com/dudns1234/TIL/blob/master/8_DataAnalysis/2_EDA.md)) : 가상환경 설정 및 sweetviz설치
 - 자동차 리콜 3년 데이터 분석(과제)
+
+> 230913 학습한 내용 정리
+- [머신러닝](https://github.com/dudns1234/TIL/blob/master/8_DataAnalysis/4_%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D.md) - 이론/기본, 데이터셋 분리(train/test), 선형회귀분석모델, 농어 길이로 무게 예측
