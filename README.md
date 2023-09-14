@@ -187,3 +187,9 @@
 
 > 230913 학습한 내용 정리
 - [머신러닝](https://github.com/dudns1234/TIL/blob/master/8_DataAnalysis/4_%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D.md) - 이론/기본, 데이터셋 분리(train/test), 선형회귀분석모델, 농어 길이로 무게 예측
+
+> 230914 학습한 내용 정리
+- [평가척도](https://github.com/dudns1234/TIL/blob/master/9_MachineLearning.md/5_%ED%8F%89%EA%B0%80%EC%B2%99%EB%8F%84.md)
+- [알고리즘](https://github.com/dudns1234/TIL/blob/master/9_MachineLearning.md/6_%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98.md) - 결정트리, KNN
+- [전처리](https://github.com/dudns1234/TIL/blob/master/9_MachineLearning.md/7_%EC%A0%84%EC%B2%98%EB%A6%AC.md)
+- [농어길이무게예측](https://github.com/dudns1234/TIL/blob/master/9_MachineLearning.md/4_%EB%86%8D%EC%96%B4%EA%B8%B8%EC%9D%B4%EB%AC%B4%EA%B2%8C%EC%98%88%EC%B8%A1.md) - 평가지표 : 단순선형회귀 / 모델+평가지표 : 다항선형회귀, 결정트리, KNN
