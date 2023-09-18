@@ -199,3 +199,6 @@
 - [현대자동차가격예측](https://github.com/dudns1234/TIL/blob/master/9_MachineLearning.md/8_%ED%98%84%EB%8C%80%EC%9E%90%EB%8F%99%EC%B0%A8%EA%B0%80%EA%B2%A9%EC%98%88%EC%B8%A1.md) - 모델 : 단순선형회귀, 결정트리, KNN / 평가척도 : 회귀
 
 - [분류알고리즘](https://github.com/dudns1234/TIL/blob/master/9_MachineLearning.md/6_%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98.md)- 이론, 평가지표
+
+> 230918 학습한 내용 정리
+- [데이터사이언스스쿨](https://datascienceschool.net/intro.html) - 수학편 이론 학습
