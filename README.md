@@ -201,4 +201,7 @@
 - [분류알고리즘](https://github.com/dudns1234/TIL/blob/master/9_MachineLearning.md/6_%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98.md)- 이론, 평가지표
 
 > 230918 학습한 내용 정리
-- [데이터사이언스스쿨](https://datascienceschool.net/intro.html) - 수학편 이론 학습
+- [데이터사이언스스쿨](https://datascienceschool.net/intro.html) - 수학편 이론 학습 (진행중)
+
+> 230919 학습한 내용 정리
+- [데이터사이언스스쿨](https://datascienceschool.net/intro.html) - 수학편 이론 학습 (진행중)
