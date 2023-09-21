@@ -205,3 +205,9 @@
 
 > 230919 학습한 내용 정리
 - [데이터사이언스스쿨](https://datascienceschool.net/intro.html) - 수학편 이론 학습 (진행중)
+
+> 230920 학습한 내용 정리
+- [데이터사이언스스쿨](https://datascienceschool.net/intro.html) - 수학편 이론 학습 (진행중)
+
+> 230921 학습한 내용 정리
+- [데이터사이언스스쿨](https://datascienceschool.net/intro.html) - 수학편 이론 학습 (진행중)
