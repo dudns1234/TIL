@@ -217,4 +217,7 @@
 - [구글코랩실습](https://github.com/dudns1234/Data_Analysis/blob/master/01_model_selection_%EB%AA%A8%EB%93%88_%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0.ipynb) : 01_model_selection_모듈_알아보기, 02_데이터_전처리.ipynb
 
 > 230925 학습한 내용 정리
-- [분류모델평가방법](https://github.com/dudns1234/Data_Analysis/blob/master/03_%EB%B6%84%EB%A5%98%EB%AA%A8%EB%8D%B8_%ED%8F%89%EA%B0%80_%EB%B0%A9%EB%B2%95.ipynb), 분류알고리즘-[트리모델](https://github.com/dudns1234/Data_Analysis/blob/master/04_%ED%8A%B8%EB%A6%AC%EB%AA%A8%EB%8D%B8.ipynb) : 이론 및 실습 진행
+- [분류모델평가방법](https://github.com/dudns1234/Data_Analysis/blob/master/03_%EB%B6%84%EB%A5%98%EB%AA%A8%EB%8D%B8_%ED%8F%89%EA%B0%80_%EB%B0%A9%EB%B2%95.ipynb), 분류알고리즘[(트리모델)](https://github.com/dudns1234/Data_Analysis/blob/master/04_%ED%8A%B8%EB%A6%AC%EB%AA%A8%EB%8D%B8.ipynb) 이론 및 실습 진행
+
+> 230926 학습한 내용 정리
+- 분류알고리즘 : [앙상블](https://github.com/dudns1234/Data_Analysis/blob/master/05_%EC%95%99%EC%83%81%EB%B8%94_%EB%B6%84%EB%A5%98_%EB%AA%A8%EB%8D%B8.ipynb), [XGBoost](https://github.com/dudns1234/Data_Analysis/blob/master/06_XGBoost.ipynb), [LightGBM](https://github.com/dudns1234/Data_Analysis/blob/master/07_LightGBM.ipynb) 이론 및 실습 진행
