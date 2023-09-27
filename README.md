@@ -221,3 +221,6 @@
 
 > 230926 학습한 내용 정리
 - 분류알고리즘 : [앙상블](https://github.com/dudns1234/Data_Analysis/blob/master/05_%EC%95%99%EC%83%81%EB%B8%94_%EB%B6%84%EB%A5%98_%EB%AA%A8%EB%8D%B8.ipynb), [XGBoost](https://github.com/dudns1234/Data_Analysis/blob/master/06_XGBoost.ipynb), [LightGBM](https://github.com/dudns1234/Data_Analysis/blob/master/07_LightGBM.ipynb) 이론 및 실습 진행
+
+> 230927 학습한 내용 정리
+- [회귀알고리즘](https://github.com/dudns1234/Data_Analysis/blob/master/08_%EC%84%A0%ED%98%95_%ED%9A%8C%EA%B7%80_%EB%AA%A8%EB%8D%B8.ipynb) : 선형회귀, 다항회귀, Ridge, Lasso, Logistic
