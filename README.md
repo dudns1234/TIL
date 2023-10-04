@@ -224,3 +224,7 @@
 
 > 230927 학습한 내용 정리
 - [회귀알고리즘](https://github.com/dudns1234/Data_Analysis/blob/master/08_%EC%84%A0%ED%98%95_%ED%9A%8C%EA%B7%80_%EB%AA%A8%EB%8D%B8.ipynb) : 선형회귀, 다항회귀, Ridge, Lasso, Logistic
+
+> 231004 학습한 내용 정리
+- 차원축소 : [PCA](https://github.com/dudns1234/Data_Analysis/blob/master/09_PCA.ipynb), [LDA](https://github.com/dudns1234/Data_Analysis/blob/master/10_LDA.ipynb)
+- 군집화 : [K-Means](https://github.com/dudns1234/Data_Analysis/blob/master/11_K_Means%EA%B5%B0%EC%A7%91.ipynb), [Meanshift](https://github.com/dudns1234/Data_Analysis/blob/master/12_Mean_Shift_%EA%B5%B0%EC%A7%91.ipynb), [GMM](https://github.com/dudns1234/Data_Analysis/blob/master/13_GMM%EA%B5%B0%EC%A7%91.ipynb)
