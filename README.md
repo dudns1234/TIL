@@ -228,3 +228,9 @@
 > 231004 학습한 내용 정리
 - 차원축소 : [PCA](https://github.com/dudns1234/Data_Analysis/blob/master/09_PCA.ipynb), [LDA](https://github.com/dudns1234/Data_Analysis/blob/master/10_LDA.ipynb)
 - 군집화 : [K-Means](https://github.com/dudns1234/Data_Analysis/blob/master/11_K_Means%EA%B5%B0%EC%A7%91.ipynb), [Meanshift](https://github.com/dudns1234/Data_Analysis/blob/master/12_Mean_Shift_%EA%B5%B0%EC%A7%91.ipynb), [GMM](https://github.com/dudns1234/Data_Analysis/blob/master/13_GMM%EA%B5%B0%EC%A7%91.ipynb)
+
+> 231005 학습한 내용 정리
+- 딥러닝 기반 자연어 처리
+
+> 231006 학습한 내용 정리
+- 프로젝트 시작
