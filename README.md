@@ -240,3 +240,7 @@
 
 > 231011 학습한 내용 정리
 - Algorithm 특강 완료
+
+> 231012 학습한 내용 정리
+- [API 크롤링 진행 (카카오 API)](https://github.com/dudns1234/Web-Scraping/blob/master/%EC%8B%A4%EC%8A%B5_%EC%B9%B4%EC%B9%B4%EC%98%A4_API_%ED%81%AC%EB%A1%A4%EB%A7%81.ipynb)
+- 프로젝트 회의
