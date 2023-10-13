@@ -244,3 +244,8 @@
 > 231012 학습한 내용 정리
 - [API 크롤링 진행 (카카오 API)](https://github.com/dudns1234/Web-Scraping/blob/master/%EC%8B%A4%EC%8A%B5_%EC%B9%B4%EC%B9%B4%EC%98%A4_API_%ED%81%AC%EB%A1%A4%EB%A7%81.ipynb)
 - 프로젝트 회의
+
+> 231013 학습한 내용 정리
+- [HTML 스크래핑](https://github.com/dudns1234/Web-Scraping/blob/master/03_HTML_%EC%8A%A4%ED%81%AC%EB%9E%98%ED%95%91.ipynb)
+- [Web Crawling](https://github.com/dudns1234/Web-Scraping/blob/master/05_%EC%8B%A4%EC%8A%B5-%EB%84%A4%EC%9D%B4%EB%B2%84%EC%A6%9D%EA%B6%8C%ED%81%AC%EB%A1%A4%EB%A7%81.ipynb)
+- 프로젝트 회의
