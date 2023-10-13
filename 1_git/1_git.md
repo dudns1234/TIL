@@ -11,13 +11,17 @@
 
 ![areas](./assets/areas.png)
 
-## 명령어
+## 명령어 (GIt Bash)
 
+### github 코드 올리기
+- push 처음할 때 **init** 꼭 진행
+- `.git directory`를 생성하는 명령어
 ```shell
 git init
 ```
-- `.git directory`를 생성하는 명령어
 
+- `working directory`에 있는 파일, 폴더를 `staging area`에 추가
+- add 하기전엔 파일이 저장이 되었는지 확인하기
 ```shell
 - 모든 파일
 git add .
@@ -26,36 +30,37 @@ git add .
 git add <특정 파일 경로>
 git add 1_git/1_git.md
 ```
-- `working directory`에 있는 파일, 폴더를 `staging area`에 추가
-- add 하기전엔 파일이 저장이 되었는지 확인하기
 
+- `staging area`에 올라간 파일들을 저장 (github 처음 연동할 때)
 ```shell
 git commit -m 'message
 ```
-- `staging area`에 올라간 파일들을 저장
 
+- 원격저장소 주소를 origin이라는 별명으로 저장
 ```shell
 git remote add origin <remote url>
 ```
-- 원격저장소 주소를 origin이라는 별명으로 저장
 
+- `master` 브랜치를 `origin` 원격저장소로 업로드
 ```shell
 git push origin master
 ```
-- `master` 브랜치를 `origin` 원격저장소로 업로드
 
+### Github에서 상대방 코드 가져올 때
+- 원격 저장소에 있는 레포를 현재 폴더에 복제
 ```shell
 git clone <remote url>
 
 ```
-- 원격 저장소에 있는 레포를 현재 폴더에 복제
-
+- 원격 저장소에 마지막 코드 상태를 다운로드
 ```shell
 git pull origin master
-
 ```
-- 원격 저장소에 마지막 코드 상태를 다운로드
-
+- `Reinitialized existing Git repository` 오류날 시에 대처법
+```shell
+git remote -v
+git remote rm origin
+```
 
 ## git 까지의 세세한 과정
 1. 바탕화면에 폴더 생성 C:\Users\yujin\Desktop\camp29\TIL
