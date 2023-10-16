@@ -249,3 +249,7 @@
 - [HTML 스크래핑](https://github.com/dudns1234/Web-Scraping/blob/master/03_HTML_%EC%8A%A4%ED%81%AC%EB%9E%98%ED%95%91.ipynb)
 - [Web Crawling](https://github.com/dudns1234/Web-Scraping/blob/master/05_%EC%8B%A4%EC%8A%B5-%EB%84%A4%EC%9D%B4%EB%B2%84%EC%A6%9D%EA%B6%8C%ED%81%AC%EB%A1%A4%EB%A7%81.ipynb)
 - 프로젝트 회의
+
+> 231016 학습한 내용 정리
+- [머신러닝](https://github.com/dudns1234/Data_Analysis/blob/master/8.%EB%94%A5%EB%9F%AC%EB%8B%9D/01_Tensorflow_%EA%B8%B0%EB%B3%B8_%EB%AA%A8%EB%8D%B8%EB%A7%81.ipynb)
+- 프로젝트 데이터 파악
