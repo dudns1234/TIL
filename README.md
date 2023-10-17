@@ -251,5 +251,9 @@
 - 프로젝트 회의
 
 > 231016 학습한 내용 정리
-- [머신러닝](https://github.com/dudns1234/Data_Analysis/blob/master/8.%EB%94%A5%EB%9F%AC%EB%8B%9D/01_Tensorflow_%EA%B8%B0%EB%B3%B8_%EB%AA%A8%EB%8D%B8%EB%A7%81.ipynb)
+- [딥러닝](https://github.com/dudns1234/Data_Analysis/blob/master/8.%EB%94%A5%EB%9F%AC%EB%8B%9D/01_Tensorflow_%EA%B8%B0%EB%B3%B8_%EB%AA%A8%EB%8D%B8%EB%A7%81.ipynb)
 - 프로젝트 데이터 파악
+
+> 231017 학습한 내용 정리
+- [딥러닝](https://github.com/dudns1234/Data_Analysis/blob/master/8.%EB%94%A5%EB%9F%AC%EB%8B%9D/04_CNN_%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0.ipynb):이미지처리
+- 프로젝트 데이터 전처리 : CCTV 정보 API 크롤링 및 지도시각화, 부산 통행량 API 크롤링 진행중
