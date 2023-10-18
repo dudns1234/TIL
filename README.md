@@ -255,5 +255,9 @@
 - 프로젝트 데이터 파악
 
 > 231017 학습한 내용 정리
-- [딥러닝](https://github.com/dudns1234/Data_Analysis/blob/master/8.%EB%94%A5%EB%9F%AC%EB%8B%9D/04_CNN_%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0.ipynb):이미지처리
+- [딥러닝](https://github.com/dudns1234/Data_Analysis/blob/master/8.%EB%94%A5%EB%9F%AC%EB%8B%9D/04_CNN_%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0.ipynb):이미지처리(CNN)
 - 프로젝트 데이터 전처리 : CCTV 정보 API 크롤링 및 지도시각화, 부산 통행량 API 크롤링 진행중
+
+> 231018 학습한 내용 정리
+- [딥러닝](https://github.com/dudns1234/Data_Analysis/blob/master/8.%EB%94%A5%EB%9F%AC%EB%8B%9D/03_RNN%EC%9D%84_%EC%9D%B4%EC%9A%A9%ED%95%9C_%EC%9E%90%EC%97%B0%EC%96%B4%EB%B6%84%EB%A5%98%EB%AA%A8%EB%8D%B8.ipynb):자연어처리(RNN)
+- 프로젝트 데이터 전처리 및 시각화 : GeoPandas
