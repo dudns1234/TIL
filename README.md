@@ -261,3 +261,6 @@
 > 231018 학습한 내용 정리
 - [딥러닝](https://github.com/dudns1234/Data_Analysis/blob/master/8.%EB%94%A5%EB%9F%AC%EB%8B%9D/03_RNN%EC%9D%84_%EC%9D%B4%EC%9A%A9%ED%95%9C_%EC%9E%90%EC%97%B0%EC%96%B4%EB%B6%84%EB%A5%98%EB%AA%A8%EB%8D%B8.ipynb):자연어처리(RNN)
 - 프로젝트 데이터 전처리 및 시각화 : GeoPandas
+
+> 231019 학습한 내용 정리
+- 프로젝트 GeoPandas, Folium 활용하여 교통 민원데이터 분석 진행중
