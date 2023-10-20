@@ -264,3 +264,7 @@
 
 > 231019 학습한 내용 정리
 - 프로젝트 GeoPandas, Folium 활용하여 교통 민원데이터 분석 진행중
+
+> 231020 학습한 내용 정리
+- [Selenium 크롤링](https://github.com/dudns1234/Web-Scraping/blob/master/4_Selenium.ipynb)
+- 프로젝트 교통 민원데이터 전체, Top10 추출 및 시각화 완료
