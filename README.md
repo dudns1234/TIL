@@ -288,4 +288,5 @@
 > 231027 학습한 내용 정리
 - 각 피처 Standard Scaler 적용 후 Heatmap 작성
 - 통행량대비 CCTV scatter 분포 파악
+- 필요한 시각화 자료 지원
 - 국민권익위원회 제출 ppt 최종 제작
