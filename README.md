@@ -325,3 +325,9 @@
 - 하둡 클러스터(Master/Worker 아키텍처), 변천사(Hadoop1,2,3) 
 - 하둡 설치하고 설정하기
 - 맵리듀스 예제 실행
+
+> 231110 학습한 내용 정리
+- 데이터 적재 : **Hadoop HDFS**, NameNode & DataNode, HDFS 명령어(HDFS CLI 환경 실습)
+- 데이터 수집
+    - **Sqoop** 이론 및 설치, 커넥터 설치, 테스트 데이터 다운로드, Sqoop -> HDFS, HDFS → Sqoop
+    - **Flume** 주요 구성 요소, Apache Flume 설치와 설정, Agent 설정하기 : netcat source, directory source, HDFS Sink
