@@ -1,5 +1,5 @@
 # 오늘 주제  
-> CRUD 로직 업데이트1
+> CRUD 로직 업데이트2
 >    - APP(posts)에다가 urls.py 추가 생성   
 >    - 공용 HTML 만듬 (base.html)   
 >    - form method = POST 사용
