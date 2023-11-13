@@ -331,3 +331,6 @@
 - 데이터 수집
     - **Sqoop** 이론 및 설치, 커넥터 설치, 테스트 데이터 다운로드, Sqoop -> HDFS, HDFS → Sqoop
     - **Flume** 주요 구성 요소, Apache Flume 설치와 설정, Agent 설정하기 : netcat source, directory source, HDFS Sink
+
+> 231113 학습한 내용 정리
+- 데이터 수집 : **EFK(ELK) Stack** 이론 및 실습 - fluentd, Opensearch, Opendashboard
