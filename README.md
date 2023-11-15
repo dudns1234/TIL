@@ -338,7 +338,7 @@
 > 231114 학습한 내용 정리
 - Hadoop MapReduce 이론
 - Hive 이론 및 설치, mysql을 metastore로 사용, 실습
-- Spark 이론 및 설치, 주피터노트북 실습(pyspark)
+- Spark 이론 및 설치, Python으로 Spark사용 실습(주피터노트북)
 
 > 231115 학습한 내용 정리
 - spark 이론
