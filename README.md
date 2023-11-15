@@ -339,3 +339,8 @@
 - Hadoop MapReduce 이론
 - Hive 이론 및 설치, mysql을 metastore로 사용, 실습
 - Spark 이론 및 설치, 주피터노트북 실습(pyspark)
+
+> 231115 학습한 내용 정리
+- spark 이론
+- RDD 실습 : Key_Value_RDD, Transformations_Actions, Reduction,..
+- RDD 문제 4개 풀어보기
