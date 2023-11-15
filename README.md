@@ -334,3 +334,8 @@
 
 > 231113 학습한 내용 정리
 - 데이터 수집 : **EFK(ELK) Stack** 이론 및 실습 - fluentd, Opensearch, Opendashboard
+
+> 231114 학습한 내용 정리
+- Hadoop MapReduce 이론
+- Hive 이론 및 설치, mysql을 metastore로 사용, 실습
+- Spark 이론 및 설치, 주피터노트북 실습(pyspark)
