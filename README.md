@@ -344,3 +344,7 @@
 - spark 이론
 - RDD 실습 : Key_Value_RDD, Transformations_Actions, Reduction,..
 - RDD 문제 4개 풀어보기
+
+> 231116 학습한 내용 정리
+- Spark DataFrame, SQL
+- DataFrame API 1,2,3 
