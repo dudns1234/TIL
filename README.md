@@ -347,4 +347,11 @@
 
 > 231116 학습한 내용 정리
 - Spark DataFrame, SQL
-- DataFrame API 1,2,3 
+- DataFrame API 1,2,3 주피터 실습
+
+> 231117 학습한 내용 정리
+- DataFrame API 4, UDF 주피터 실습
+- Zepplin 설치 및 VS Code와 AWS 개발 환경 연동 후 데이터 업로드
+- Zepplin을 통해 titanic, 뉴욕 택시 데이터 분석
+    - DW -> DM로 가기 위한 데이터처리
+    - EDA 진행
