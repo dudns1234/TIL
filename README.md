@@ -372,3 +372,7 @@
 - Kafdrop 사용하기
 - 실시간 리뷰 예측
 - 실시간 이상 탐지, slack 알림 설정
+
+> 231123 학습한 내용 정리
+- Spark Streaming 이론 및 실습
+- streaming 데이터 필터링, 집계
