@@ -376,3 +376,8 @@
 > 231123 학습한 내용 정리
 - Spark Streaming 이론 및 실습
 - streaming 데이터 필터링, 집계
+
+> 231124 학습한 내용 정리
+- Spark Streaming Window Function
+- Watermarking
+- Kafka-Spark Streaming 연동하여 실시간 데이터 처리
