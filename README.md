@@ -381,3 +381,6 @@
 - Spark Streaming Window Function
 - Watermarking
 - Kafka-Spark Streaming 연동하여 실시간 데이터 처리
+
+> 231127 학습한 내용 정리
+- 최종 프로젝트 주제 논의 및 세부내용 작성
