@@ -429,4 +429,13 @@
 - 사용자 정보 추가
 
 > 231213 학습한 내용 정리
-- logger 설계 (진행중)
+- logger 설계
+- Fluentd 셋팅 (진행중)
+
+> 231214 학습한 내용 정리
+- logger 데코레이터
+- EFK Stack 사용하여 log 처리
+    - F (Fluentd) : log 데이터 수집
+    - E (OpenSearch) : log 데이터 저장
+    - Fluentd - OpenSearch 연동
+    - K (OpenSearch DashBoard) : log 데이터 시각화
