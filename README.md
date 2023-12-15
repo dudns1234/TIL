@@ -439,3 +439,12 @@
     - E (OpenSearch) : log 데이터 저장
     - Fluentd - OpenSearch 연동
     - K (OpenSearch DashBoard) : log 데이터 시각화
+
+> 231215 학습한 내용 정리
+- Airflow를 활용하여 사용자 집계
+    - DAG 설계
+    - Task 정의
+        - log데이터수집 및 전처리
+        - 집계
+        - DB 적재
+    - 파이프라인화
