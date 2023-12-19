@@ -456,3 +456,8 @@
 > 231218 학습한 내용 정리
 - top50 순위 추가
 - airflow 집계 task 수정 (진행중)
+
+> 231219 학습한 내용 정리
+- airflow 집계 task 수정 (완료)
+- Django static_app Model 정의
+- 사용자 집계 페이지 시각화 구축 (진행중)
