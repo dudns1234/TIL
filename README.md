@@ -469,3 +469,7 @@
 > 231221 학습한 내용 정리
 - 사용자 집계 페이지 시각화 구축 (완료)
 - Top50 airflow DAG 설계 (진행중)
+
+> 231222 학습한 내용 정리
+- airflow Top50 DAG 설계 (완료)
+- Kafka - Spark Streaming (진행중) 
