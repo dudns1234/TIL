@@ -473,3 +473,9 @@
 > 231222 학습한 내용 정리
 - airflow Top50 DAG 설계 (완료)
 - Kafka - Spark Streaming (진행중) 
+
+> 231226 학습한 내용 정리
+- Top50 관련 모델 정의
+- airflow Top50 기존 DB 적재
+- Top50 변경
+- Kafka 연동 (진행중)
