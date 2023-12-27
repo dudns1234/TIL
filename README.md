@@ -479,3 +479,8 @@
 - airflow Top50 기존 DB 적재
 - Top50 변경
 - Kafka 연동 (진행중)
+
+> 231227 학습한 내용 정리
+- Kafka 연동 완료
+- Spark Streaming 진행중
+- 화면 출력 진행중
