@@ -484,3 +484,8 @@
 - Kafka 연동 완료
 - Spark Streaming 진행중
 - 화면 출력 진행중
+
+> 231228 학습한 내용 정리
+- Mongo DB 설치 및 셋팅
+- Spark Streaming MongoDB 연동
+- MongoDB에서 데이터 화면 출력(진행중)
