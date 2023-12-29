@@ -489,3 +489,9 @@
 - Mongo DB 설치 및 셋팅
 - Spark Streaming MongoDB 연동
 - MongoDB에서 데이터 화면 출력(진행중)
+
+> 231229 학습한 내용 정리
+- MongoDB 이슈 해결
+- MongoDB에서 데이터 시간대별 화면 출력 완료
+- Spark Streaming 집계 (진행중)
+- Mysql 특강 완료
