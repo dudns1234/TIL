@@ -495,3 +495,8 @@
 - MongoDB에서 데이터 시간대별 화면 출력 완료
 - Spark Streaming 집계 (진행중)
 - Mysql 특강 완료
+
+> 231230 학습한 내용 정리
+- 멘토링
+- 자료준비 (준비중)
+- Spark Streaming writestream 변경
