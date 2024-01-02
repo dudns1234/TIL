@@ -500,3 +500,7 @@
 - 멘토링
 - 자료준비 (준비중)
 - Spark Streaming writestream 변경
+
+> 240102 학습한 내용 정리
+- Spark Streaming (진행중)
+- Mysql, 군집화 특강 완료
